@@ -1,0 +1,12 @@
+# Ignore environment variables file
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Optionally, you might also want to ignore other common Node.js specific files/directories:
+npm-debug.log
+yarn-debug.log
+.pnp/
+.pnp.cjs
+.pnp.mjs
